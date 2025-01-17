@@ -16,13 +16,13 @@ Install with repo url
 ### npm
 
 ```
-npm add git+https
+npm install git+https://github.com/gfx-tekminera/MOD-use-schemecheck.git
 ```
 
 ### yarn
 
 ```
-npm add git+https
+yarn add use-schemecheck@https://github.com/gfx-tekminera/MOD-use-schemecheck.git
 ```
 
 ## Usage
