@@ -2,7 +2,7 @@ import { createContext } from 'react';
 
 export type StateValue = boolean | string | number | boolean[] | string[] | number[];
 // T: rootstate
-interface LimitConfig<T> {
+export interface LimitConfig<T> {
   stateKey?: string;
   flag?: {
     type: 'toggle' | 'max' | 'value';
